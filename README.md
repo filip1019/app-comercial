@@ -1,1 +1,1 @@
-# app-comercial
+# app-comercial*FERPER. Quiero un diseño **minimalista, moderno, elegante y muy fácil de entender, utilizando principalmente **tonos claros, fondos limpios, buen espacio entre elementos, tipografía moderna y animaciones sutiles. Debe ser completamente **responsive, con una excelente experiencia tanto en **teléfono móvil como en computadora*
